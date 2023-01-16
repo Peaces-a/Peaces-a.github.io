@@ -498,3 +498,8 @@
   transition: .3s;
   top: -8px
 }
+
+.loading-img {
+  background: url(https://s3.bmp.ovh/imgs/2023/01/10/74abc2e48f5419a7.jpg) no-repeat center center;
+  background-size: cover;
+}
