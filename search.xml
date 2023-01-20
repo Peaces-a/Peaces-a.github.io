@@ -8,7 +8,7 @@
       <link href="/posts/25b9a8f7.html"/>
       <url>/posts/25b9a8f7.html</url>
       
-        <content type="html"><![CDATA[<h1 id="这里的每日一句会长时更新"><a href="#这里的每日一句会长时更新" class="headerlink" title="这里的每日一句会长时更新"></a>这里的每日一句会长时更新</h1><p>至于为什么<br>纯属突发奇想<br>这里不会标注作者<br>即使莫一天断下次更新也会补上（上学一周7更）</p><h1 id="2023年1月20日"><a href="#2023年1月20日" class="headerlink" title="2023年1月20日"></a><h3>2023年1月20日</h1><blockquote><p>锦瑟年华，执此忆生。<br></p></blockquote><h1 id="2023年1月21日"><a href="#2023年1月21日" class="headerlink" title="2023年1月21日"></a><h3>2023年1月21日</h1><blockquote><p>留空 <br></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id="这里的每日一句会长时更新"><a href="#这里的每日一句会长时更新" class="headerlink" title="这里的每日一句会长时更新"></a>这里的每日一句会长时更新</h1><p>至于为什么<br>纯属突发奇想<br>这里不会标注作者<br>即使某一天断下次更新也会补上（上学一周7更）</p><h1 id="2023年1月20日"><a href="#2023年1月20日" class="headerlink" title="2023年1月20日"></a><h3>2023年1月20日</h1><blockquote><p>锦瑟年华，执此忆生。<br></p></blockquote><h1 id="2023年1月21日"><a href="#2023年1月21日" class="headerlink" title="2023年1月21日"></a><h3>2023年1月21日</h1><blockquote><p>留空 <br></p></blockquote>]]></content>
       
       
       
@@ -121,6 +121,17 @@
     
     
     <entry>
+      <title>便携小空调 - 为你的夏日带去清凉!</title>
+      <link href="/air-conditioner/index.html"/>
+      <url>/air-conditioner/index.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><p><div id="air-conditioner-vue"></div></p><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
@@ -132,11 +143,11 @@
     
     
     <entry>
-      <title>便携小空调 - 为你的夏日带去清凉!</title>
-      <link href="/air-conditioner/index.html"/>
-      <url>/air-conditioner/index.html</url>
+      <title>时间轴</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><p><div id="air-conditioner-vue"></div></p><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -159,17 +170,6 @@
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<p class='p center logo large'>基本信息</p><p class='p center small'>Basic information</p><br>Name：Peace<br>Age：16<br>From：Beijing<br>Interest：打打游戏，摆摆烂<br>Contact：QQ：444999945 - <span class='p red'>关于此博客</span><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>在这里先说一声抱歉</p>            </div><div class='checkbox red'><input type="radio" />            <p>这个博客不会出现与那些大佬一样的技术分享</p>            </div><div class='checkbox red'><input type="radio" />            <p>这里一般只会出现我的随手笔记</p>            </div><div class='checkbox green'><input type="radio" />            <p>和突如其来的灵感书写</p>            </div><div class='checkbox yellow'><input type="radio" />            <p>或是分享一些生活中有乐趣的事情</p>            </div><div class='checkbox cyan'><input type="radio" />            <p>我是一个出生在北京农村的普通人，没有什么特殊的家室，没有什么特殊的技能</p>            </div><div class='checkbox blue'><input type="radio" />            <p>这个博客也是在无聊时搭建出来的，也找了许多的教程</p>            </div> - <span class='p red'>用一首诗来结尾吧</span><div class='poem'><div class='poem-title'>摘抄网络</div><div class='poem-author'>评论区</div><p>人在未见之时，我亦独行在这城市<br>料峭，春醒，酷暑，骤雨，寒意四起，大雁南飞，<br>而后，大雪，寒风， 斗转星移，人间寒暑，<br>如此之后， 才得蓦然回首，四目相对。</p><p>终有相见之时，你亦不再孤行于世<br>春芽，夏涤，秋篱，冬绒，相思四季，待雁北归，<br>你我，相遇，缘起 星辰月笠，春秋旖旎 自此以后，<br>才可白头相许，永不分离。</p></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>时间轴</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -232,6 +232,17 @@
     
     <entry>
       <title></title>
+      <link href="/js/fps.js"/>
+      <url>/js/fps.js</url>
+      
+        <content type="html"><![CDATA[if (window.localStorage.getItem("fpson") == undefined || window.localStorage.getItem("fpson") == "1") {    var rAF = function () {        return (            window.requestAnimationFrame ||            window.webkitRequestAnimationFrame ||            function (callback) {                window.setTimeout(callback, 1000 / 60);            }        );    }();    var frame = 0;    var allFrameCount = 0;    var lastTime = Date.now();    var lastFameTime = Date.now();    var loop = function () {        var now = Date.now();        var fs = (now - lastFameTime);        var fps = Math.round(1000 / fs);        lastFameTime = now;        // 不置 0，在动画的开头及结尾记录此值的差值算出 FPS        allFrameCount++;        frame++;        if (now > 1000 + lastTime) {            var fps = Math.round((frame * 1000) / (now - lastTime));            if (fps <= 5) {                var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`            } else if (fps <= 15) {                var kd = `<span style="color:red">电竞级帧率😖</span>`            } else if (fps <= 25) {                var kd = `<span style="color:orange">有点难受😨</span>`            } else if (fps < 35) {                var kd = `<span style="color:#9338e6">不太流畅🙄</span>`            } else if (fps <= 45) {                var kd = `<span style="color:#08b7e4">还不错哦😁</span>`            } else {                var kd = `<span style="color:#39c5bb">十分流畅🤣</span>`            }            document.getElementById("fps").innerHTML = `FPS:${fps} ${kd}`;            frame = 0;            lastTime = now;        };        rAF(loop);    }    loop();} else {    document.getElementById("fps").style = "display:none!important"}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/snow.js"/>
       <url>/js/snow.js</url>
       
@@ -258,17 +269,6 @@
       <url>/js/title.js</url>
       
         <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener("visibilitychange", function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = "w(ﾟДﾟ)w 不要走！再看看嘛！";    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = "♪(^∇^*)欢迎肥来！" + OriginTitile;    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/fps.js"/>
-      <url>/js/fps.js</url>
-      
-        <content type="html"><![CDATA[if (window.localStorage.getItem("fpson") == undefined || window.localStorage.getItem("fpson") == "1") {    var rAF = function () {        return (            window.requestAnimationFrame ||            window.webkitRequestAnimationFrame ||            function (callback) {                window.setTimeout(callback, 1000 / 60);            }        );    }();    var frame = 0;    var allFrameCount = 0;    var lastTime = Date.now();    var lastFameTime = Date.now();    var loop = function () {        var now = Date.now();        var fs = (now - lastFameTime);        var fps = Math.round(1000 / fs);        lastFameTime = now;        // 不置 0，在动画的开头及结尾记录此值的差值算出 FPS        allFrameCount++;        frame++;        if (now > 1000 + lastTime) {            var fps = Math.round((frame * 1000) / (now - lastTime));            if (fps <= 5) {                var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`            } else if (fps <= 15) {                var kd = `<span style="color:red">电竞级帧率😖</span>`            } else if (fps <= 25) {                var kd = `<span style="color:orange">有点难受😨</span>`            } else if (fps < 35) {                var kd = `<span style="color:#9338e6">不太流畅🙄</span>`            } else if (fps <= 45) {                var kd = `<span style="color:#08b7e4">还不错哦😁</span>`            } else {                var kd = `<span style="color:#39c5bb">十分流畅🤣</span>`            }            document.getElementById("fps").innerHTML = `FPS:${fps} ${kd}`;            frame = 0;            lastTime = now;        };        rAF(loop);    }    loop();} else {    document.getElementById("fps").style = "display:none!important"}]]></content>
       
     </entry>
     
