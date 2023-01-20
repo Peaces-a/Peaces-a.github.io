@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peaces-a.github.io/posts/b9e80aa0.html</loc>
+    
+    <lastmod>2023-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/posts/9daba997.html</loc>
+    
+    <lastmod>2023-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peaces-a.github.io/about/index.html</loc>
     
     <lastmod>2023-01-20</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://peaces-a.github.io/tuku/index.html</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/posts/b9e80aa0.html</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -77,15 +86,6 @@
     <loc>https://peaces-a.github.io/posts/3b4b656d.html</loc>
     
     <lastmod>2023-01-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/posts/9daba997.html</loc>
-    
-    <lastmod>2023-01-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
