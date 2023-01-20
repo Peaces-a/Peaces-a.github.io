@@ -240,7 +240,7 @@
     margin: 30px 0px 0px 0px;
   }
   
-  /* 鼠标图标 */
+  /* 鼠标图标
   body {
     cursor: url("/img/x1.cur"), auto;
   }
@@ -250,7 +250,8 @@
   [type="submit"]:not(:disabled),
   button:not(:disabled) {
     cursor: url("/img/x2.cur"), auto !important;
-  }
+  } */
+  
   /* md网站下划线 */
   #article-container a:hover {
     text-decoration: none !important;
