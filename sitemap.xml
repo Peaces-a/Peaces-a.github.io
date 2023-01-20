@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peaces-a.github.io/about/index.html</loc>
+    
+    <lastmod>2023-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peaces-a.github.io/posts/3b4b656d.html</loc>
+    
+    <lastmod>2023-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/tuku/index.html</loc>
+    
+    <lastmod>2023-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/wallpaper/index.html</loc>
     
     <lastmod>2023-01-20</lastmod>
     
@@ -32,33 +59,6 @@
     <loc>https://peaces-a.github.io/posts/9daba997.html</loc>
     
     <lastmod>2023-01-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/about/index.html</loc>
-    
-    <lastmod>2023-01-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/tuku/index.html</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/wallpaper/index.html</loc>
-    
-    <lastmod>2023-01-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -164,14 +164,14 @@
 
   
   <url>
-    <loc>https://peaces-a.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://peaces-a.github.io/tags/%E5%A8%B1%E4%B9%90/</loc>
     <lastmod>2023-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/tags/%E5%A8%B1%E4%B9%90/</loc>
+    <loc>https://peaces-a.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2023-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
