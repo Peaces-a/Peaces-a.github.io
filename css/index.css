@@ -3699,7 +3699,7 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   height: 100%;
   position: fixed;
-  background: var(#faf7f7);
+  background: var(#fff);
   z-index: 1001;
   opacity: 1;
   -ms-filter: none;

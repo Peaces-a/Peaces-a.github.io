@@ -191,13 +191,6 @@
 
   
   <url>
-    <loc>https://peaces-a.github.io/tags/%E5%A8%B1%E4%B9%90/</loc>
-    <lastmod>2023-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://peaces-a.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2023-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,6 +199,13 @@
   
   <url>
     <loc>https://peaces-a.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/tags/%E5%A8%B1%E4%B9%90/</loc>
     <lastmod>2023-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
