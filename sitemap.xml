@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peaces-a.github.io/posts/25b9a8f7.html</loc>
+    
+    <lastmod>2023-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peaces-a.github.io/bb/index.html</loc>
+    
+    <lastmod>2023-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/link/index.html</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -23,15 +41,6 @@
     <loc>https://peaces-a.github.io/posts/c497e77.html</loc>
     
     <lastmod>2023-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/posts/25b9a8f7.html</loc>
-    
-    <lastmod>2023-01-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -164,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/link/index.html</loc>
-    
-    <lastmod>2023-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peaces-a.github.io/manifest.json</loc>
     
     <lastmod>2023-01-15</lastmod>
@@ -191,7 +191,7 @@
 
   
   <url>
-    <loc>https://peaces-a.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://peaces-a.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,7 +205,7 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://peaces-a.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
