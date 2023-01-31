@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://peaces-a.github.io/posts/25b9a8f7.html</loc>
-    
-    <lastmod>2023-01-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peaces-a.github.io/muyu/index.html</loc>
     
     <lastmod>2023-01-31</lastmod>
@@ -39,6 +30,33 @@
   
   <url>
     <loc>https://peaces-a.github.io/wallpaper/index.html</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/manifest.json</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/link/index.html</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/music/index.html</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -92,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/posts/9daba997.html</loc>
+    <loc>https://peaces-a.github.io/posts/25b9a8f7.html</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -101,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/manifest.json</loc>
+    <loc>https://peaces-a.github.io/posts/9daba997.html</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -147,24 +165,6 @@
   
   <url>
     <loc>https://peaces-a.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-01-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/link/index.html</loc>
-    
-    <lastmod>2023-01-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/music/index.html</loc>
     
     <lastmod>2023-01-31</lastmod>
     
