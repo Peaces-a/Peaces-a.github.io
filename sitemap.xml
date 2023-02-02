@@ -47,25 +47,7 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/manifest.json</loc>
-    
-    <lastmod>2023-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/link/index.html</loc>
-    
-    <lastmod>2023-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/music/index.html</loc>
+    <loc>https://peaces-a.github.io/posts/518737a4.html</loc>
     
     <lastmod>2023-02-02</lastmod>
     
@@ -137,6 +119,15 @@
   </url>
   
   <url>
+    <loc>https://peaces-a.github.io/manifest.json</loc>
+    
+    <lastmod>2023-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peaces-a.github.io/about/index.html</loc>
     
     <lastmod>2023-02-02</lastmod>
@@ -190,6 +181,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://peaces-a.github.io/link/index.html</loc>
+    
+    <lastmod>2023-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/music/index.html</loc>
+    
+    <lastmod>2023-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://peaces-a.github.io/</loc>
@@ -198,6 +207,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://peaces-a.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://peaces-a.github.io/tags/%E5%A8%B1%E4%B9%90/</loc>
@@ -215,13 +231,6 @@
   
   <url>
     <loc>https://peaces-a.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2023-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
