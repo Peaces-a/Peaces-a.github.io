@@ -47,42 +47,6 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/manifest.json</loc>
-    
-    <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/jiami/index.html</loc>
-    
-    <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/link/index.html</loc>
-    
-    <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/music/index.html</loc>
-    
-    <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peaces-a.github.io/posts/518737a4.html</loc>
     
     <lastmod>2023-02-10</lastmod>
@@ -164,6 +128,15 @@
   </url>
   
   <url>
+    <loc>https://peaces-a.github.io/manifest.json</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peaces-a.github.io/about/index.html</loc>
     
     <lastmod>2023-02-10</lastmod>
@@ -201,6 +174,33 @@
   
   <url>
     <loc>https://peaces-a.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/jiami/index.html</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/link/index.html</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/music/index.html</loc>
     
     <lastmod>2023-02-10</lastmod>
     
