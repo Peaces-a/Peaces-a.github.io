@@ -402,7 +402,7 @@
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<p><b>添加我的友联</b><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">- name: Peace`Home</span><br><span class="line">  link: https://tiaq.cn/</span><br><span class="line">  avatar: https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/zaxiang/%E4%B9%BE%E7%BA%B1%E5%AF%BF%E5%8F%B6.jpg</span><br><span class="line">  descr: 藏在大海中的小屋</span><br></pre></td></tr></table></figure></p>]]></content>
+        <content type="html"><![CDATA[<p><b>添加我的友联</b><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">- name: Peace`Home</span><br><span class="line">  link: https://tiaq.cn/</span><br><span class="line">  avatar: https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/zaxiang/%E4%B9%BE%E7%BA%B1%E5%AF%BF%E5%8F%B6.jpg</span><br><span class="line">  descr: 藏匿在大海中的小屋</span><br></pre></td></tr></table></figure></p>]]></content>
       
     </entry>
     
