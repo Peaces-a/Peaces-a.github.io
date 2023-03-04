@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peaces-a.github.io/manifest.json</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/jiami/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/link/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/muyu/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/souxiu/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/suishou/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/tuku/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peaces-a.github.io/wallpaper/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peaces-a.github.io/posts/518737a4.html</loc>
     
     <lastmod>2023-03-04</lastmod>
@@ -92,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://peaces-a.github.io/manifest.json</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peaces-a.github.io/about/index.html</loc>
     
     <lastmod>2023-03-04</lastmod>
@@ -129,78 +201,6 @@
   
   <url>
     <loc>https://peaces-a.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/jiami/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/link/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/muyu/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/souxiu/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/suishou/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/tuku/index.html</loc>
-    
-    <lastmod>2023-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peaces-a.github.io/wallpaper/index.html</loc>
     
     <lastmod>2023-03-04</lastmod>
     
