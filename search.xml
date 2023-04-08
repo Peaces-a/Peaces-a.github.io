@@ -455,6 +455,17 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<p><b>添加我的友联</b><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">- name: Peace`Home</span><br><span class="line">  link: https://tiaq.cn/</span><br><span class="line">  avatar: https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/zaxiang/%E4%B9%BE%E7%BA%B1%E5%AF%BF%E5%8F%B6.jpg</span><br><span class="line">  descr: 藏匿在大海中的小屋</span><br></pre></td></tr></table></figure></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电子木鱼</title>
       <link href="/muyu/index.html"/>
       <url>/muyu/index.html</url>
@@ -471,17 +482,6 @@
       <url>/souxiu/index.html</url>
       
         <content type="html"><![CDATA[<p><h2>去搜秀的随手拍，最后一张是盲盒开出来的<br></p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/souxiu/%E6%90%9C%E7%A7%80%20(1).jpg" style="width:600px height=500px;"/></div></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/souxiu/%E6%90%9C%E7%A7%80%20(2).jpg" style="width:600px height=500px;"/></div></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/souxiu/%E6%90%9C%E7%A7%80%20(3).jpg" style="width:600px height=500px;"/></div></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/souxiu/%E6%90%9C%E7%A7%80%20(6).jpg" style="width:600px height=500px;"/></div></div><blockquote><p>“大书法”家赠予我的</p></blockquote><div class="img-wrap"><div class="img-bg"><img class="img" src="https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/souxiu/%E6%90%9C%E7%A7%80%20(5).jpg" style="width:600px height=500px;"/></div></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/souxiu/%E6%90%9C%E7%A7%80%20(4).jpg" style="width:600px height=500px;"/></div></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<p><b>添加我的友联</b><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">- name: Peace`Home</span><br><span class="line">  link: https://tiaq.cn/</span><br><span class="line">  avatar: https://alist-tuku.oss-cn-beijing.aliyuncs.com/tuchuang/blog-p/zaxiang/%E4%B9%BE%E7%BA%B1%E5%AF%BF%E5%8F%B6.jpg</span><br><span class="line">  descr: 藏匿在大海中的小屋</span><br></pre></td></tr></table></figure></p>]]></content>
       
     </entry>
     
